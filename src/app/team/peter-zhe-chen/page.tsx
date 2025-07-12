@@ -36,7 +36,7 @@ export default function PeterZheChenProfile() {
           <div className="mt-12 p-8 bg-gray-900 rounded-xl border border-purple-800">
             <h2 className="text-3xl font-bold text-white mb-4">Overview</h2>
             <p className="text-lg leading-relaxed">
-              Peter Zhe Chen is currently a Tech Investor at 5Y Capital in Beijing, specializing in product development, mobile technology, and artificial intelligence. With a background that includes roles at Google and BlackBerry, he has successfully invested in companies like HAI ROBOTICS and AgileX, focusing on FinTech sectors at Series A and Seed stages. Peter Zhe Chen's career highlights include serving as Managing Director at 5Y Capital and co-founding TagTalk, showcasing his expertise in venture capital and entrepreneurship within the tech industry.
+              Peter Zhe Chen specializes in product development, mobile technology, and artificial intelligence. With a background that includes roles at Google and BlackBerry, he has successfully invested in companies like HAI ROBOTICS and AgileX, focusing on FinTech sectors at Series A and Seed stages. Peter Zhe Chen's career highlights include serving as Managing Director at 5Y Capital and co-founding TagTalk, showcasing his expertise in venture capital and entrepreneurship within the tech industry.
             </p>
           </div>
           
@@ -56,4 +56,3 @@ export default function PeterZheChenProfile() {
     </div>
   );
 }
-
